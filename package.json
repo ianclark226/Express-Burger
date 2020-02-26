@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/ianclark226/Express-Burger#readme",
   "dependencies": {
+    "config": "^3.2.6",
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
+    "mysql": "^2.18.1",
     "orm": "^5.0.5"
   }
 }
