@@ -1,0 +1,24 @@
+{
+  "name": "express-burger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianclark226/Express-Burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianclark226/Express-Burger/issues"
+  },
+  "homepage": "https://github.com/ianclark226/Express-Burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "orm": "^5.0.5"
+  }
+}
